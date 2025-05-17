@@ -1,4 +1,4 @@
-#Automatic Lighting System
+Automatic Lighting System
 This project is a simple automatic lighting system using an Arduino, ultrasonic sensor (HC-SR04), LDR (Light Dependent Resistor), and an LED. The system automatically turns the light (LED) on based on ambient light and distance to an object.
 
 Features
