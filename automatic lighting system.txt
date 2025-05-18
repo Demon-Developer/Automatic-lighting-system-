@@ -1,4 +1,5 @@
 const int trigPin = 2;
+const int ldrPin = 5;
 const int echoPin = 3;
 const int ledPin = 8;
 long duration;
