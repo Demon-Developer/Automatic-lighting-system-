@@ -48,3 +48,7 @@ Power the Arduino and observe the LED behavior.
 
 License
 This project is open-source and free to use for educational and personal use.
+
+
+Circuit Digram
+Use circuit_image.svg for better view
